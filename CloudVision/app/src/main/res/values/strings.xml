@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alta Cuentas Demo</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="image_details_header">Detalles:</string>
+    <string name="image_preview_header">Vista Previa:</string>
+    <string name="loading_message">Cargando imagen.</string>
+    <string name="final_message">Demo Alta Cuenta Digital</string>
+
+    <string name="dialog_select_prompt">Elige una imagen</string>
+    <string name="dialog_select_camera">Cámara</string>
+    <string name="dialog_select_gallery">Galería</string>
+
+    <string name="image_picker_error">Error de imagen</string>
+</resources>
